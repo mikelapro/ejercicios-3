@@ -12,6 +12,10 @@
 
 <section>
 
+#### TODO
+- [ ] 15 - Objects
+- [ ] 16 - DOM
+
 ## 1 - Operaciones básicas, Tipos de datos, Prompt y Alert
 
 - Escribir un programa que muestre un prompt donde el usuario ingresa un número, luego muestra otro prompt pidiendo otro número, finalmente el programa muestra una alerta con el resultado de la suma.
@@ -322,7 +326,7 @@ Diamante:
 
 - Crear una función que calcule el promedio dentro de un arreglo pero dentro de un rango, esta función recibe el arreglo, un punto de partida y uno de termino y devuelve el promedio de los valores dentro del rango especificado.
 
-## Objetos
+## 15 - Objetos
 
 - Personas
 	- Crear un objeto literal persona con nombre y edad y una método que determine si es mayor de edad o no.
@@ -340,7 +344,7 @@ Diamante:
 	- Crear la función constructura punto que recibe un par de coordenadas (x,y) y devuelve un objeto punto en esa posición.
 	- Crear la función constructora recta que recibe como argumento 2 puntos.
 
-## DOM
+## 16 - DOM
 
 - Utilizando getElementById y innerHTML transformar el emoticon en un smiley
 
